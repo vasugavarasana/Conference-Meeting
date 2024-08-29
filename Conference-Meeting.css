@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    height: 40vh;
+    background-size: cover;
+}
+
+.image {
+    height: 250px;
+    width: 800px;
+}
+
+.descripton-container {
+    text-align: center;
+    margin: 25px;
+    padding: 10px;
+}
+
+.main-heading {
+    text-align: center;
+    font-size: 35px;
+    font-family: Roboto;
+    font-weight: 800;
+    color: #183b56;
+    margin: 35px;
+}
+
+.paragraph {
+    text-align: center;
+    font-size: 20px;
+    font-family: Roboto;
+    font-weight: 400;
+    color: #183b56;
+    margin: 25px;
+}
+
+.button1 {
+    font-size: 15px;
+    border-radius: 10px;
+    margin: 8px;
+    padding: 8px;
+}
+
+.conference-descripton-container {
+    text-align: cent er;
+    margin: 25px;
+}
+
+.conference-main-heading {
+    text-align: center;
+    font-size: 35px;
+    font-family: Roboto;
+    font-weight: 600;
+    color: #183b56;
+    margin: 15px;
+}
+
+.conference-paragraph {
+    text-align: center;
+    font-size: 15px;
+    font-family: Roboto;
+    font-weight: 400;
+    color: #183b56;
+    margin: 15px;
+}
+
+.conference-card-item {
+    margin: 15px;
+    padding: 15px;
+    height: 40vh;
+    background-size: cover;
+}
+
+.conference-card-num {
+    font-size: 25px;
+    color: #183b56;
+    font-weight: 400;
+    margin: 10px;
+}
+
+.conference-card-values {
+    font-size: 15px;
+    color: #183b56;
+    font-family: Roboto;
+}
+
+.button2 {
+    font-size: 15px;
+    border-radius: 10px;
+    margin: 8px;
+    padding: 8px;
